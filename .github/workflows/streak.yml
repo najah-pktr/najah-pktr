@@ -1,0 +1,26 @@
+name: Update Streak Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate Streak Stats
+        uses: denvercoder1/github-readme-streak-stats@master
+        with:
+          github_token: ${{ secrets.METRICS_TOKEN }} # Use the token you already created
+          user: najah-pktr
+          args: --theme=tokyonight --hide_border=true
+          
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add .
+          git commit -m "Update streak stats" || exit 0
+          git push
