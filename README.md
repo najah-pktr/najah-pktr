@@ -23,8 +23,8 @@ everything i touch has a *najah* on it.
 | | |
 |---|---|
 | 🌿 **GreenBill** | small shops in india still use toxic thermal paper for receipts. i'm fixing that. digital receipts, civic angle, real impact. |
-| ⚽ **PitchMaster** | league management for eFootball players. because that community deserved something built for them. |
-| 🧾 **InvoicEra** | dead simple invoice generator. one page. no bloat. |
+| ⚽ **StickItUP** | Chromium extension for premium sticky notes for any website. Beautiful, persistent, and highly customizable.|
+| 💻 **LabNet** | LabNet is a LAN Communication Tool for teams to cowork with chat hosted in LAN |
 
 ---
 
@@ -32,7 +32,7 @@ everything i touch has a *najah* on it.
 
 - 🎲 **Dice by NJ** — a 3D dice roller. minimal, dark, satisfying to tap.
 - 🎭 **കപ്പലിലെ കള്ളൻ** — malayalam social deduction party game. built it for my friends. now strangers play it.
-- 🥥 **CocoNono** — kerala-themed nonogram puzzles. my first vibecoded game.
+- 🏎️ **Ready2Race** — a reaction time checker like F1.
 
 ---
 
