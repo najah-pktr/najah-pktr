@@ -11,7 +11,8 @@
 ---
 
 most devs write code. most designers make mockups.  
-i do both — and i don't stop until it's live.
+i found out in 2022 that i can build websites with ai and keep my talent as a designer on other side
+now i build digital solutions which are best in design & cool in functionality
 
 design-first. vibe-coded. built fast with AI as the copilot.  
 everything i touch has a *najah* on it.
@@ -32,7 +33,7 @@ everything i touch has a *najah* on it.
 
 - 🎲 **Dice by NJ** — a 3D dice roller. minimal, dark, satisfying to tap.
 - 🎭 **കപ്പലിലെ കള്ളൻ** — malayalam social deduction party game. built it for my friends. now strangers play it.
-- 🏎️ **Ready2Race** — a reaction time checker like F1.
+- ✒️ **ManglishPro** — a manglish and english typing tool made using google's api, now my friends love to use it.
 
 ---
 
